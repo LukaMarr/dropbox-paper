@@ -5,6 +5,8 @@ App wrapper around [paper.dropbox.com](https://paper.dropbox.com). Generated wit
 
 ![Dropbox Paper for Mac Icon](icon.png) <br>
 
+![Icon in dock](icon_dock.png)
+
 This is not an official Dropbox product. Paper logo by [Dropbox](https://medium.com/dropbox-design). <br> 
 There are two Dropbox Paper unofficial Mac apps. <br>
 - [Dropbox Paper Mac by mituoh](https://github.com/mituoh/Dropbox-Paper-Mac)
